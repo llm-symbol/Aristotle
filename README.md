@@ -1,1 +1,1 @@
-# MuSLR
+# Aristotle
